@@ -1,6 +1,20 @@
 # User-Persona-Project-
 A user persona designed to represent the target audience, including demographics, personality traits, interests, and motivations.
 
+# CODTECH UI/UX Internship Task-1
+
+# User Persona Development
+
+Company: CODTECH IT SOLUTIONS
+
+Intern Name: M.S.SIVAS
+
+Intern ID: CITS3315
+
+Domain: UI/UX Design
+
+Duration: 4 Weeks
+
 # Demographics
 
 Name: Arun Kumar
